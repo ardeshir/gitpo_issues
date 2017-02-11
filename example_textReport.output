@@ -1,0 +1,67 @@
+root@metaunivrs:/gocode/src/github.com/ardeshir/issues# ./issues repo:golang/go is:open json decoder
+13 issues:
+------------------------------
+Number: 11046
+User:   kurin
+Title:  encoding/json: Decoder internally buffers full input
+Age:    619 days
+------------------------------
+Number: 15314
+User:   okdave
+Title:  proposal: some way to reject unknown fields in encoding/json.Dec
+Age:    302 days
+------------------------------
+Number: 18227
+User:   LeGEC
+Title:  encoding/json: Decoder does not keep context for nested Unmarsha
+Age:    66 days
+------------------------------
+Number: 12001
+User:   lukescott
+Title:  encoding/json: Marshaler/Unmarshaler not stream friendly
+Age:    558 days
+------------------------------
+Number: 5901
+User:   rsc
+Title:  encoding/json: allow override type marshaling
+Age:    1305 days
+------------------------------
+Number: 8658
+User:   gopherbot
+Title:  encoding/json: use bufio
+Age:    890 days
+------------------------------
+Number: 16212
+User:   josharian
+Title:  encoding/json: do all reflect work before decoding
+Age:    227 days
+------------------------------
+Number: 17609
+User:   nathanjsweet
+Title:  encoding/json: ambiguous fields are marshalled
+Age:    108 days
+------------------------------
+Number: 7872
+User:   extemporalgenome
+Title:  encoding/json: Encoder internally buffers full output
+Age:    1022 days
+------------------------------
+Number: 14750
+User:   cyberphone
+Title:  encoding/json: parser ignores the case of member names
+Age:    338 days
+------------------------------
+Number: 6647
+User:   btracey
+Title:  x/tools/cmd/godoc: display type kind of each named type
+Age:    1207 days
+------------------------------
+Number: 8717
+User:   dvyukov
+Title:  cmd/compile: random performance fluctuations after unrelated cha
+Age:    882 days
+------------------------------
+Number: 17244
+User:   adg
+Title:  proposal: decide policy for sub-repositories
+Age:    137 days
