@@ -1,3 +1,7 @@
+#run
+
+root@metaunivrs:/gocode/src/github.com/ardeshir/issues# ./issues repo:golang/go is:open json decoder
+
 13 issues:
 #11046     kurin encoding/json: Decoder internally buffers full input
 #15314    okdave proposal: some way to reject unknown fields in encoding
