@@ -10,7 +10,7 @@ import (
 
 func main() {
 
-   result, err := github.SearchInssues(os.Args[1:])
+   result, err := github.SearchIssues(os.Args[1:])
 
    if err != nil {
       log.Fatal(err)
